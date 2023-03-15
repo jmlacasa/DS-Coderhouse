@@ -15,7 +15,7 @@ Para correr el proyecto, descargar el .ipynb y ejecutarlo desde Google Colab.
 
 ----------------------------------
 
-#English
+# English
 # DS-Coderhouse
 Final Project for the Coderhouse Data Science certification.
 
